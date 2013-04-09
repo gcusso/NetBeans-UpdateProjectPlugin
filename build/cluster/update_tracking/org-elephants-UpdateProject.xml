@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.elephants.UpdateProject">
+    <module_version install_time="1365539871869" last="true" origin="installer" specification_version="1.0">
+        <file crc="918827" name="config/Modules/org-elephants-UpdateProject.xml"/>
+        <file crc="2110843376" name="modules/ext/jdom-2.0.4.jar"/>
+        <file crc="766279157" name="modules/ext/org-netbeans-modules-cnd-makeproject-source-bridge.jar"/>
+        <file crc="538190937" name="modules/ext/org-netbeans-modules-cnd-makeproject.jar"/>
+        <file crc="2602181792" name="modules/org-elephants-UpdateProject.jar"/>
+    </module_version>
+</module>

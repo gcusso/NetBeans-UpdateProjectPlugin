@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="org-netbeans-modules-cnd-antlr.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-api-model.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-apt.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-asm.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-callgraph.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-classview.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-cncppunit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-completion.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-debugger-common2.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-debugger-gdb2.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-discovery.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-dwarfdiscovery.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-dwarfdump.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-editor.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-folding.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-gotodeclaration.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-highlight.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-makeproject.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-modeldiscovery.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-modelui.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-modelutil.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-navigation.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-qnavigator.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-refactoring.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-remote-projectui.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-repository-api.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-script.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-search.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-simpleunit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-source.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-testrunner.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd-utils.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-cnd.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-dlight-kit.xml">
+        <attr name="ergonomicsEnabled" longvalue="1364856735088"/>
+        <attr name="ergonomicsUnused" intvalue="0"/>
+    </fileobject>
+</attributes>
